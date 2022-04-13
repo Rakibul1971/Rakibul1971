@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rakibul1971
+- 👋 Hi, I’m MD. Rakibul Islam Shazol.
 - 👀 I’m interested in Software Development, App Development and Web Development.
 - 🌱 I’m currently developing an Android app.
 - 💞️ I’m looking to collaborate on ...
