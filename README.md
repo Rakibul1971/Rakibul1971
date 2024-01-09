@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MD. Rakibul Islam Shazol.
 - 👀 I’m interested in Software Development, App Development and Web Development.
-- 🌱 I’m currently developing node.js application.
+- 🌱 I’m currently developing wordpress plugin.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email-shazolislam8@gmail.com
 
